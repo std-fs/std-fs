@@ -24,6 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/std-fs/std-fs/pub/assets/snake.svg" alt="cherry" />
+<img src="https://raw.githubusercontent.com/std-fs/std-fs/main/pub/assets/snake.svg" alt="cherry" />
 
 ###
